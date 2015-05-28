@@ -70,6 +70,7 @@ namespace VendingMachine
 
             vend = new VendResult { Message = InsufficientFundsMessage };
             return false;
+             
 
         }
     }
